@@ -5,6 +5,3 @@
     height: calc(100% - 3em);
 }
 
-.btn-group>.btn:not(:first-child) {
-    margin-left: 10px;
-}
